@@ -1,6 +1,6 @@
 void main() {
   // Map
-  Map<String, int> ages = {'Joko': 25, 'Ahmad': 30, 'Dony': 22};
+  Map<String, int> ages = {'Santi': 25, 'Edy': 30, 'Dony': 22};
 
   // Menambahkan entry ke Map
   ages['Khalid'] = 28;
